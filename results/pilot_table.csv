@@ -1,0 +1,5 @@
+guesser,answerer,games,win_rate,avg_turns_when_won
+gemini,gemini,12,0.83,15.2
+gemini,gpt,12,0.58,17.29
+gpt,gemini,12,0.33,14.75
+gpt,gpt,12,0.5,18.0
