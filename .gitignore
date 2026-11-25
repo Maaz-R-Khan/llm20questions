@@ -2,3 +2,6 @@
 .ipynb_checkpoints/
 __pycache__/
 .DS_Store
+
+# Local course notes (contain names; never commit)
+CSE519_20Q_Project/
